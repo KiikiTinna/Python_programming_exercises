@@ -28,11 +28,14 @@ a5 = "1"
 b5 = 2
 print(a5 + b5)
 
-#Hint 3: There are certain naming rules you need to follow when creating variables.
-#Hint 4: Operator == is a comparison operator.
 
 
-#Answer
-#a1: 3
-#a2: 18
-#a3: 
+#Answers
+#Q1: 3
+#Q2: 18
+#Q3: There are certain naming rules you need to follow when creating variables.
+#Q4: Operator == is a comparison operator, variable c does not exist
+#Q5: print(int(a5) + b5)
+
+
+
