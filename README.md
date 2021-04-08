@@ -3,4 +3,4 @@ Python programming exercises with solutions that will help you improve your pyth
 The exercises are suitable for beginners and for those who want to deepen their knowledge.
 
 
-At the beginning of every python file, there are the questions, and at the end of the file, there are the answers. Before you check the answer, try to get your solution. The way you solve the question can be different from mine. 
+At the beginning of every python file, there are the questions, and at the end of the file, there are the answers. Before you check the answer, try to get your solution. The way you solve the question can be different from mine.  In the file are also all text and database files you need to solve the questions
