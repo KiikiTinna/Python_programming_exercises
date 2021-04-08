@@ -1,5 +1,12 @@
 #Please create a web app that let's users submit a username and password
-#The app checks if the username exists and the password satisfies three conditions as in exercise 81
+#The app checks if the username exists and the password satisfies three conditions.
+#Password contains at least one number, one uppercase letter and it is at least 5 chars long
+
+
+
+
+#Answer:
+
 from flask import Flask, render_template_string, request
 
 app = Flask(__name__)
